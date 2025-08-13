@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "123025542189",
+    "project_id": "tawelty-app",
+    "storage_bucket": "tawelty-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123025542189:android:daa7e5fd136e1368a23ca4",
+        "android_client_info": {
+          "package_name": "com.example.tawelty_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123025542189-t5mig7l0gm1vvj23dfb8a32d1qq8gr4g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tawelty_app",
+            "certificate_hash": "72f9091ce0b5178a547b0f5c707fd3170f7dc59f"
+          }
+        },
+        {
+          "client_id": "123025542189-u53cj0g4a1vn2r6at49qas4enoh5r5i0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNwsTG1GE9xmGB_48Ok4eCgnEmiG2SKT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123025542189-u53cj0g4a1vn2r6at49qas4enoh5r5i0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "123025542189-qjjri8jkpoth7hu8r2omskatn447c47b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.taweltyApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
