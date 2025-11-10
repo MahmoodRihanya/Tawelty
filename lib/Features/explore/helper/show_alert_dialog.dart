@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:tawelty_app/Features/auth/services/logout.dart';
 import 'package:tawelty_app/constants.dart';
-
+// delete dialog
 showAlertDialog(BuildContext context) {
   Widget logoutButton = TextButton(
     style: ButtonStyle(
